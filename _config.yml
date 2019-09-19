@@ -1,2 +1,3 @@
 baseurl: /actianonedocs
 exclude: ['README.MD']
+theme: jekyll-theme-minimal
